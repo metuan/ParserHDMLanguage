@@ -1,0 +1,7 @@
+def or_of(A) =
+  let N = #A in
+  if N = 0 then [0]
+  else if N = 1 then A
+  else
+    let H = N / 2 in
+    or_of(A[H-1..0]) | or_of(A[N-1..H])

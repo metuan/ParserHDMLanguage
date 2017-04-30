@@ -1,0 +1,5 @@
+def log_depth_adder(A, B, C) =
+  if #A = 0 then C, []
+  else
+    let P, G, S = log_depth_adder_aux(A, B, C) in
+    G | P&C, S

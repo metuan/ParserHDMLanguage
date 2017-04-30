@@ -1,0 +1,2 @@
+def recursionFunc(a) = 
+  recursionFunc(a-1)

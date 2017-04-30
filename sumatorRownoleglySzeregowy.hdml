@@ -1,0 +1,7 @@
+def ripple_carry_adder(A, B, C) =
+  let N = #A in
+  if N = 0 then C, []
+  else
+    let C1, S1 = full_adder(A[0], B[0], C) in
+    let C2, S2 = ripple_carry_adder(A[N-1..1], B[N-1..1], C1) in
+    C2, S2@S1

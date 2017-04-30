@@ -1,0 +1,7 @@
+def half_adder(A, B) =
+  A&B, A^B
+
+def full_adder(A, B, C) =
+  let C1, S1 = half_adder(A, B) in
+  let C2, S2 = half_adder(S1, C) in
+  C1|C2, S2
