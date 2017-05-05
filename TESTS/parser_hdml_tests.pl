@@ -1,4 +1,4 @@
-:- module(karol_rodzinski_tests, [tests/3]).
+:- module(parser_hdml_tests, [tests/3]).
 
 tests(empty_program, input(""), program([])).
 tests(pustyMain, input("def main()"), no).
