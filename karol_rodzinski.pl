@@ -1,4 +1,4 @@
-:- module(karol_rodzinski, [parse/3]).
+:- module(parser_HDML, [parse/3]).
 
 
 % --------------------------------------- LEKSER ---------------------------------------- %
