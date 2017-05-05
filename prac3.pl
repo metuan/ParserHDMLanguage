@@ -37,8 +37,8 @@
 % 
 % Do poprawnego działania sprawdzaczki należy jeszcze zmodyfikować
 % poniższe dwa wiersze:
-:- use_module(karol_rodzinski_tests).
-:- use_module(karol_rodzinski).
+:- use_module(parser_hdml_tests).
+:- use_module(parser_hdml).
 
 test_all :-
   ( test_name_duplicate(Name) ->
