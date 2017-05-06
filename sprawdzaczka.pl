@@ -3,7 +3,7 @@
 % Sprawdzaczkę należy uruchomić w katalogu w którym znajdują się testy
 % i rozwiązania:
 %
-% $ swipl prac3.pl
+% $ swipl sprawdzaczka.pl
 %
 % Predykat test_all/0 uruchamia rozwiązanie na wszystkich testach
 % is wyświetla raport. np.
