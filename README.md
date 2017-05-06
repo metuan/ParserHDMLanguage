@@ -1,4 +1,4 @@
-:muscle: :fire:
+:muscle: :fire: :thumbsup:
 ### ParserAndLexerHDMLanguage
 Parser and Lexer to HDML language using Prolog. 
 to run tests you must install swi-prolog\
@@ -19,4 +19,4 @@ download all files and extract to one directory!
 # or
 - click [here](TESTS/parser_hdml_tests.pl)
 
-# REMEMBER TO :star: if You like it :exclamation:
+REMEMBER TO :star: if You like it :exclamation:
