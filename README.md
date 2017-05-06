@@ -9,11 +9,11 @@ download all files and extract to one directory!
 - then type: test_all. 
 
 ## If you want to find a parser's source:
-- open parser_hdml.pl
+- open parser_hdml.pl  
 OR
 - click here: [parser_hdml.pl](parser_hdml.pl)
 
 ## If you want to find tests' source, go to [TESTS](TESTS) directory:
-- open parser_hdml_tests.pl 
+- open parser_hdml_tests.pl   
 OR
 - click here: [parser_hdml_tests.pl](TESTS/parser_hdml_tests.pl)
