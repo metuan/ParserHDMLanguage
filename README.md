@@ -18,5 +18,3 @@ download all files and extract to one directory!
 - open parser_hdml_tests.pl   
 # or
 - click [here](TESTS/parser_hdml_tests.pl)
-
-REMEMBER TO :star: if You like it :exclamation:
